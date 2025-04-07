@@ -10,9 +10,12 @@
 During our first team meeting, we assigned responsibilities as follows:
 
 1. **Part I (Nicholas Tantalean):**
-	•	Designed and implemented the First-Fit and Next-Fit memory allocation algorithms.
-	•	Integrated allocation logic into the main simulation loop.
-	•	Collaborated on code testing.
+	
+ •	Designed and implemented the First-Fit and Next-Fit memory allocation algorithms.
+	
+ •	Integrated allocation logic into the main simulation loop.
+	
+ •	Collaborated on code testing.
 
 2. **Part II (Sebastian Acosta):**
 	•	Documented all memory block/hole structures and address manipulation.
