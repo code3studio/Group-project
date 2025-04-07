@@ -1,4 +1,4 @@
-### Programming Assignment 2: CPU Scheduling Algorithms
+### Programming Assignment 3: Memory Allocation
 
 #### Group Members:
 - **Nicholas Tantalean** - Panther ID: 6321969 - Email: ntant001@fiu.edu
